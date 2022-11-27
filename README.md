@@ -10,3 +10,8 @@
 ## How to use
 - In order to use the model trained, just run `streamlit run app.py`.
 - If you want to train the model again, follow the instructions at `main.ipynb`.
+
+## Demo
+
+https://user-images.githubusercontent.com/44501642/204134379-8d912a62-8cf8-43b6-b01b-90dba1499ac6.mov
+
